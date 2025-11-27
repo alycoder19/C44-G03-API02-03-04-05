@@ -1,0 +1,11 @@
+G:\courses\.net\.Net API\ECommerce.Domin\bin\Debug\net8.0\ECommerce.Domin.deps.json
+G:\courses\.net\.Net API\ECommerce.Domin\bin\Debug\net8.0\ECommerce.Domin.dll
+G:\courses\.net\.Net API\ECommerce.Domin\bin\Debug\net8.0\ECommerce.Domin.pdb
+G:\courses\.net\.Net API\ECommerce.Domin\obj\Debug\net8.0\ECommerce.Domin.GeneratedMSBuildEditorConfig.editorconfig
+G:\courses\.net\.Net API\ECommerce.Domin\obj\Debug\net8.0\ECommerce.Domin.AssemblyInfoInputs.cache
+G:\courses\.net\.Net API\ECommerce.Domin\obj\Debug\net8.0\ECommerce.Domin.AssemblyInfo.cs
+G:\courses\.net\.Net API\ECommerce.Domin\obj\Debug\net8.0\ECommerce.Domin.csproj.CoreCompileInputs.cache
+G:\courses\.net\.Net API\ECommerce.Domin\obj\Debug\net8.0\ECommerce.Domin.dll
+G:\courses\.net\.Net API\ECommerce.Domin\obj\Debug\net8.0\refint\ECommerce.Domin.dll
+G:\courses\.net\.Net API\ECommerce.Domin\obj\Debug\net8.0\ECommerce.Domin.pdb
+G:\courses\.net\.Net API\ECommerce.Domin\obj\Debug\net8.0\ref\ECommerce.Domin.dll
